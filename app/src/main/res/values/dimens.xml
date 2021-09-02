@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_gamer"> 25dp </dimen>
+    <dimen name="left_gamer"> 35dp </dimen>
+    <dimen name="height_width_gamer"> 100dp </dimen>
+    <dimen name="left_text"> 28dp </dimen>
+    <dimen name="top_text"> 35dp </dimen>
+    <dimen name="size_text"> 20sp </dimen>
+    <dimen name="left_right"> 10dp </dimen>
+    <dimen name="margin_float"> 20dp </dimen>
+    <dimen name="no_border"> 0dp </dimen>
+    <dimen name="dp_10"> 10dp </dimen>
+    <dimen name="dp_15"> 15dp </dimen>
+    <dimen name="dp_20"> 20dp </dimen>
+    <dimen name="dp_30"> 30dp </dimen>
+    <dimen name="dp_50"> 50dp </dimen>
+    <dimen name="dp_150"> 150dp </dimen>
+</resources>

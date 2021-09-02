@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio_Pacha</string>
+    <string name="textCreate"> Abriendo la aplicación! </string>
+    <string name="textPause"> Entrando en pausa </string>
+    <string name="titleApp"> Primera app para Android en Kotlin! :o </string>
+    <string name="snack"> Un Snack :) </string>
+    <string name="textSnack"> Presionaste el boton de Snack! :o </string>
+    <string name="textBtnSnack"> Puedes presionar el botón para que se muestre </string>
+    <string name="string1"> O escribir texto... </string>
+    <string name="string2"> Escribe algo aquí ^_^ </string>
+    <string name="string3"> También, que aparezca un Toast en onPause </string>
+    <string name="textFloat"> (☞ﾟヮﾟ)☞ UN TOAST ☜(ﾟヮﾟ☜)</string>
+</resources>
